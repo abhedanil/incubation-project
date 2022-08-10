@@ -1,0 +1,11 @@
+.home{
+    flex:4
+}
+.outerdiv{
+    height:100%;
+    background-color:rgb(253, 243, 243);
+    border-radius: 10px;
+    display:flex;
+    justify-content: center;
+    align-items: center ;
+}

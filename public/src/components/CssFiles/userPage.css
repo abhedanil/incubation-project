@@ -1,0 +1,10 @@
+.container{
+  display:flex;
+  padding-left:-30px;
+  background-color: rgb(251, 251, 255);
+  position: sticky;
+}
+.others{
+  flex:4;
+  background-color: #ffff;
+}

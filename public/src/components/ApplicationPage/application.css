@@ -1,0 +1,14 @@
+
+.fl{
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    flex-direction: column;
+    padding-left: 50px ;
+    padding-right: 50px;
+    padding-top: 50px;
+}
+
+.fldiv h1{
+    text-align: center;
+}
